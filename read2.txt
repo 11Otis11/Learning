@@ -4,5 +4,5 @@ git commit -m "comment"
 git log
 git reflog
 git status 
-git reset --hard head^
+git reset --hard (head^) or (head~n) or (版本号) 
 git checkout -- filename.
