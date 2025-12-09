@@ -6,3 +6,4 @@ git reflog
 git status 
 git reset --hard (head^) or (head~n) or (版本号) 
 git checkout -- filename.
+git push origin master
